@@ -23,8 +23,8 @@ class childclass extends parentclass {
 	}
 	
 	public void show2() {
-//		System.out.println("Non-Abstract method OR concrete method--Not compulsary to override");
-//		super.show2();
+		System.out.println("Non-Abstract method OR concrete method--Not compulsary to override");
+		super.show2();
 	}
 	
 }
